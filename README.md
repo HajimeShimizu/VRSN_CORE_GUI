@@ -6,7 +6,7 @@ Verisian社は[CDISC Open Rules Engine (CORE)](https://github.com/verisianHQ/cdi
 CDISC-CORE-GUIの最新バージョンでは、CORE v1.0.0をベースとしています、
 
 ## ダウンロード
-[こちらのページ]()からダウンロードできます\
+[こちらのページ]()からダウンロードできるようにする予定です
 
 ダウンロードパッケージには複数のツールが同梱されています。
 1. CDISC-CORE-GUI（このプロジェクト）
