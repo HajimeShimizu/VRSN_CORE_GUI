@@ -11,7 +11,7 @@ CDISC-CORE-GUIの最新バージョンでは、CORE v1.0.0をベースとして�
 ダウンロードパッケージには複数のツールが同梱されています。
 1. CDISC-CORE-GUI（このプロジェクト）
 2. Rule Browser
-3. [CDISC Open Rules Engine]([https://github.com/cdisc-org/cdisc-rules-engine](https://github.com/verisianHQ/cdisc-rules-engine))プロジェクトが提供しているキャッシュファイル
+3. [CDISC Open Rules Engine](https://github.com/verisianHQ/cdisc-rules-engine)プロジェクトが提供しているキャッシュファイル
 4. その他、セットアップ情報用のフォルダ
 
 ### 注意事項
