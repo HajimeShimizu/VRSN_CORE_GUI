@@ -1,9 +1,9 @@
 # VRSN_CORE_GUI
 
 ## 概要
-Verisian社は[CDISC Open Rules Engine (CORE)](https://github.com/verisianHQ/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバック/PMDAルール開発を促すことを目的としています。
+Verisian社は[CDISC Open Rules Engine (CORE)](https://github.com/verisianHQ/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。本GUIは、Verisian社のCOREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバック/PMDAルール開発を促すことを目的としています。
 
-CDISC-CORE-GUIの最新バージョンでは、CORE v1.0.0をベースとしています、
+VRSN-CORE-GUIの最新バージョンでは、CORE v1.0.0をベースとしています、
 
 ## ダウンロード
 [こちらのページ]()からダウンロードできるようにする予定です
